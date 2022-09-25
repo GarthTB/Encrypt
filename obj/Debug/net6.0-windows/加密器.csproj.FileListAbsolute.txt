@@ -1,0 +1,17 @@
+G:\编程\加密器\bin\Debug\net6.0-windows\加密器.exe
+G:\编程\加密器\bin\Debug\net6.0-windows\加密器.deps.json
+G:\编程\加密器\bin\Debug\net6.0-windows\加密器.runtimeconfig.json
+G:\编程\加密器\bin\Debug\net6.0-windows\加密器.dll
+G:\编程\加密器\bin\Debug\net6.0-windows\加密器.pdb
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.csproj.AssemblyReference.cache
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.Form1.resources
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.csproj.GenerateResource.cache
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.GeneratedMSBuildEditorConfig.editorconfig
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.AssemblyInfoInputs.cache
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.AssemblyInfo.cs
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.csproj.CoreCompileInputs.cache
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.dll
+G:\编程\加密器\obj\Debug\net6.0-windows\refint\加密器.dll
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.pdb
+G:\编程\加密器\obj\Debug\net6.0-windows\加密器.genruntimeconfig.cache
+G:\编程\加密器\obj\Debug\net6.0-windows\ref\加密器.dll
